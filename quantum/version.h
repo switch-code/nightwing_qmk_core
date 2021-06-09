@@ -1,0 +1,4 @@
+#define QMK_VERSION "12901b-dirty"
+#define QMK_BUILDDATE "2021-06-08-23:40:59"
+#define CHIBIOS_VERSION "12901b-dirty"
+#define CHIBIOS_CONTRIB_VERSION "12901b-dirty"

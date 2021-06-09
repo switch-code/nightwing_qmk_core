@@ -38,3 +38,5 @@ LTO_ENABLE = yes
 
 
 SPLIT_KEYBOARD = yes
+
+DEFAULT_FOLDER = switch-code/nightwing
